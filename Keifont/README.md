@@ -8,8 +8,8 @@
 
 > ダウンロード<br>
 
-※BTはBigType、STはSmallTypeです。
-[最新 / BigType](https://github.com/FireSepicHub-14/minecraft-font-resource-packs_ja/releases/tag/keifont_v1.0)
+※BTはBigType、STはSmallTypeです。<br>
+[最新 / BigType](https://github.com/FireSepicHub-14/minecraft-font-resource-packs_ja/releases/tag/keifont_v1.0)<br>
 [1.20.x / BT](https://github.com/FireSepicHub-14/minecraft-font-resource-packs_ja/releases/tag/keifont_v1.0)
 <br><br>
 
