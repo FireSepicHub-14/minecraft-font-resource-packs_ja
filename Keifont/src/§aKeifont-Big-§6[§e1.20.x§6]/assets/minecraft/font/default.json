@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:keifont.ttf",
+            "shift": [0.0,1.0],
+            "size": 9.1,
+            "oversample": 8.0
+        }
+    ]
+}
